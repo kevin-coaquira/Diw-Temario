@@ -1,1 +1,1 @@
-# Último temario de DIW antes del examen
+# Último temario de DWEC antes del examen
