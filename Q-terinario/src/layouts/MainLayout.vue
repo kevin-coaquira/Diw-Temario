@@ -22,7 +22,7 @@
       show-if-above
       bordered
     >
-      <q-list>
+      <q-list bordered>
         <EssentialLink
           v-for="link in essentialLinks"
           :key="link.title"
